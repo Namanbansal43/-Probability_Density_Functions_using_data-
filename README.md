@@ -1,3 +1,6 @@
+**Name:** Naman Bansal
+**Roll No:** 102303496
+
 # 🚀 Learning PDF using GAN
 
 Hey there! Welcome to my Advanced Mathematics assignment. The goal of this project was pretty interesting: instead of just assuming a probability distribution has a standard shape (like a Bell curve or an exponential distribution), what if we could use a Generative Adversarial Network (GAN) to *learn* the shape of the distribution straight from the data?
@@ -92,5 +95,4 @@ python gan_pdf_estimation.py
 
 It will churn through the epochs and pop out two images (`gan_pdf_result.png` and `gan_comparison.png`) right in your folder.
 
----
-*Created for Advanced Mathematics (Roll Number: 102303496)*
+
